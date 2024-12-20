@@ -1,0 +1,8 @@
+1. Install (composer require kreait/firebase-php)
+2. Config dir put the service accounts file as a firebase_credentials.json
+3. Create Controller (php artisan make:controller PushNotificationController)
+4. Define route send-notification
+
+https://magecomp.com/blog/push-notifications-in-laravel-with-firebase/
+
+5. welcome.blade.php custom changes
